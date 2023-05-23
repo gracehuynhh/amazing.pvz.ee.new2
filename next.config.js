@@ -1,4 +1,6 @@
 module.exports = {
+  staticPageGenerationTimeout: 1000,
+
   images: {
     domains: ['mokubo.website', 'masahiro.me', 'secure.gravatar.com']
   },
